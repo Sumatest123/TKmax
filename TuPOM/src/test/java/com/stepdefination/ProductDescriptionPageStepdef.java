@@ -8,6 +8,10 @@ public class ProductDescriptionPageStepdef extends ObjectRepo {
 	@When("^select a size for the item$")
 	public void select_a_size_for_the_item() throws Throwable {
 		
+		
+		
+		
+		
 	   
 	}
 
